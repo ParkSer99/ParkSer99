@@ -5,6 +5,8 @@
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="40" height="40" /> This is ParkJunSeo's GitHub Page 
 </h3>
 
+<br>
+
 ---
 
 📘 Languages & Libraries
@@ -29,6 +31,8 @@
 
 </div>
 
+<br>
+
 ---
 
 ## 🔍 About Me
@@ -44,21 +48,18 @@
 | 2022.12 | **캡스톤 디자인 대상** | DisKO (Discovery KOREA / Kotlin)<br>외국인을 대상으로 한 한국 여행 안내 어플 |
 | 2018.03 - 2023.02 | **명지전문대학교 졸업** | 컴퓨터공학과 - JAVA, JavaScript, C, C++, Unity |
 
+<br>
+
 ---
 
 ## 🚀 Projects
 
-### 🤖 AGV_Fleet_Core (Logistics-Automation-Mini-Project)
-*   **설명:** SLAM 자율 주행과 A* 알고리즘을 결합하여, 다중 로봇 간의 경로 간섭을 방지하고 작업 이력을 실시간으로 관리하는 지능형 통합 관제 시스템(AMR FLEET CORE)
-*   **주요 태그:** `QT`, `C++`, `Python`, `MariaDB`, `ROS 2 Humble`
-*   **담당 역할:** 팀원 - PathFinding 알고리즘 구현 (A*), 경로 간섭 예외 처리 코드 작성, 온보딩 주행 코드 개발
-*   **Repository:** [🔗 View Repo](https://github.com/Intel-Edge-9s/AGV_Fleet_Core)
+| 프로젝트 | 내용 및 역할 | 기술 스택 |
+|:---|:---|:---|
+| [**AGV Fleet Core**](https://github.com/Intel-Edge-9s/AGV_Fleet_Core) | **다중 로봇 통합 관제 시스템**<br>• A* 알고리즘 기반 경로 최적화 및 간섭 예외 처리<br>• 실시간 로봇 상태 모니터링 및 이력 관리 | `QT`, `C++`<br>`MariaDB`, `ROS2` |
+| [**Smart Factory MES**](https://github.com/Intel-Edge-9s/Smart_Factory_MES) | **OPC UA 기반 제조 실행 시스템**<br>• UUID & SHA-512 기반 보안 인증 체계 구축<br>• DB 아키텍처 설계 및 MVP 패턴 적용 UI 개발 | `QT`, `C++`<br>`MariaDB`, `OPC-UA` |
 
-### 🏭 OPC UA 기반 Smart Factory MES 구축 프로젝트
-*   **설명:** OPC UA와 Modbus TCP를 활용하여 분산된 공정 데이터를 통합하고, 실시간 설비 제어 및 생산 이력을 관리하는 스마트 팩토리 제조 실행 시스템(MES)
-*   **주요 태그:** `QT`, `C++`, `MariaDB`, `OPC-UA`, `SHA-512`
-*   **담당 역할:** 팀원 - DB 설계 및 구축, UUID 기반 데이터 관리 및 SHA-512를 활용한 보안 인증 체계 구축, MVP 아키텍쳐 구조 적용, QT UI 개발
-*   **Repository:** [🔗 View Repo](https://github.com/Intel-Edge-9s/Smart_Factory_MES)
+<br>
 
 ---
 
