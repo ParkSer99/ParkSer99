@@ -27,6 +27,8 @@
 ![js](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![js](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
+</div>
+
 ---
 
 ## 🔍 About Me
