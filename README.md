@@ -58,7 +58,7 @@
 *   **설명:** OPC UA와 Modbus TCP를 활용하여 분산된 공정 데이터를 통합하고, 실시간 설비 제어 및 생산 이력을 관리하는 스마트 팩토리 제조 실행 시스템(MES)
 *   **주요 태그:** `QT`, `C++`, `MariaDB`, `OPC-UA`, `SHA-512`
 *   **담당 역할:** 팀원 - DB 설계 및 구축, UUID 기반 데이터 관리 및 SHA-512를 활용한 보안 인증 체계 구축, MVP 아키텍쳐 구조 적용, QT UI 개발
-*   **Repository:** [🔗 View Repo](https://github.com/Intel-Edge-9s/MES)
+*   **Repository:** [🔗 View Repo](https://github.com/Intel-Edge-9s/Smart_Factory_MES)
 
 ---
 
