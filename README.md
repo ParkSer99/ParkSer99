@@ -1,27 +1,11 @@
-## Hi there 👋
 
-<!--
-**ParkSer99/ParkSer99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#BFF7FF&height=150&section=header&text=ParkJunSeo's%20GitHub&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B7EB&height=150&section=header&text=Nice%20To%20Meet%20You!&fontSize=50" />
 
 <div align=center>
-<h3>반갑습니다! 김모건입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+<h3>This is ParkJunSeo's GitHub Page. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="40" height="40" />
 </h3>
 
-📚 Languages / Library / Tools 📚
+📘 Languages
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
