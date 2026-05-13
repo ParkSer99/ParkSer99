@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B7EB&height=150&section=header&text=Nice%20To%20Meet%20You!&fontSize=50" />
 
 <div align=center>
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="40" height="40" /> This is ParkJunSeo's GitHub Page 
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="40" height="40" /> 
+  
+  This is ParkJunSeo's GitHub Page 
 </h3>
 
 <br>
