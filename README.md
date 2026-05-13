@@ -43,7 +43,7 @@
 
 **학습 노션 링크:** [🔗Notion](https://www.notion.so/Study-Memo-Scraps-2e13c0d315a080149a45c5b8e20f7e9f)
 
-| 기간 | 활동명 | 상세 내용 |
+| 기간 | 활동 | 내용 |
 |:---:|:---|:---|
 | 2025.12 - 현재 | **[Intel] 엣지 AI SW 아카데미 9기** | C, C++, 펌웨어, 리눅스, 자율주행(터틀 봇) |
 | 2022.08 - 2024.12 | **㈜딥파인** | FrontEnd 및 BackEnd 웹 개발 (JAVA, NodeJS, VueJS)<br>REST API 서버 구축 및 개발 (FastAPI, FlaskAPI)<br>Python 기반 소규모 AI 프로젝트 개발 및 연구 |
