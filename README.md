@@ -23,6 +23,7 @@
 ![js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
 ![js](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![js](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 
