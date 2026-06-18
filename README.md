@@ -64,7 +64,7 @@
 | [**Smart Factory MES**](https://github.com/Intel-Edge-9s/Smart_Factory_MES) | **OPC UA 기반 제조 실행 시스템**<br>• UUID & SHA-512 기반 보안 인증 체계 구축<br>• DB 설계 및 MVP 패턴 아키텍쳐 적용, UI 개발 | `QT`, `C++`<br>`MariaDB`, `OPC-UA` |
 | [**DISKO (Discovery Korea)**](https://github.com/wangoose/DisKO_CCDBB) | **외국인 대상 한국 관광 앱**<br>• POST 페이지 Front-End<br>• TourAPI 활용 | `Kotlin` |
 | [**SCONE (Smart Connecting Operation NEtwork)**](https://app.notion.com/p/SCONE-Smart-Connecting-Operation-NEtwork-29f3c0d315a08090b3eefbd9ad9268a3) | **현장 결선 업무 비효율 개선**<br>• DB 설계 및 구축, API 서버 구축, WEB UI페이지에 FE작업 | `Node.js`, `Python` <br> `MariaDB`, `Flask` |
-| **TIPS(Tech Incubator Program for startup Korea)** | **Object Detection, OCR를 활용한 스마트 글래스 산업 현장 문자 인식 솔루션 연구**<br>• Object Detection, OCR Model 조사 및 테스트 | `Python` |
+| **TIPS(Tech Incubator Program for startup Korea)** | **Object Detection, OCR를 활용한 <br> 스마트 글래스 산업 현장 문자 인식 솔루션 연구**<br>• Object Detection, OCR Model 조사 및 테스트 | `Python` |
 
 
 <br>
