@@ -65,6 +65,8 @@
 
 <br>
 
+[캡스톤 디자인 대상 - DISKO (Discovery Korea)](https://github.com/wangoose/DisKO_CCDBB)
+
 ---
 
 ## 🛠️ Tools & Hardware
