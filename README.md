@@ -62,10 +62,9 @@
 | [**AI Memory Assist**](https://github.com/Intel-Edge-9s/AI_Memory_Assist) | **초기 치매, 건망증 대상 일상 보조 시스템**<br>• LLM, RAG 혼합 프로세스 작성<br>• DB, REST API 설계 및 구축 | `Python`<br>`MariaDB`, `LLM`, `RAG` |
 | [**AMR Fleet Core**](https://github.com/Intel-Edge-9s/AMR_Fleet_Core) | **다중 로봇 통합 관제 시스템**<br>• A* 알고리즘 기반 경로 최적화 및 간섭 예외 처리<br>• 온보딩 주행 코드 작성 | `QT`, `C++`, `Python`<br>`MariaDB`, `ROS2` |
 | [**Smart Factory MES**](https://github.com/Intel-Edge-9s/Smart_Factory_MES) | **OPC UA 기반 제조 실행 시스템**<br>• UUID & SHA-512 기반 보안 인증 체계 구축<br>• DB 설계 및 MVP 패턴 아키텍쳐 적용, UI 개발 | `QT`, `C++`<br>`MariaDB`, `OPC-UA` |
+| [**DISKO (Discovery Korea)**](https://github.com/wangoose/DisKO_CCDBB) | **외국인 대상 한국 관광 앱**<br>• POST 페이지 Front-End<br>• TourAPI 활용 | `Kotlin` |
 
 <br>
-
-[캡스톤 디자인 대상 - DISKO (Discovery Korea)](https://github.com/wangoose/DisKO_CCDBB)
 
 ---
 
